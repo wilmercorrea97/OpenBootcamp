@@ -1,0 +1,29 @@
+/* Estilos para los colores */
+.colores {
+    color: orangered;
+}
+
+.color-hexadecimal {
+    color: #99B2DD;
+}
+
+.color-rgb {
+    color: rgb(90, 72, 72);
+}
+
+.color-rgba {
+    color: rgba(10, 10, 10, 0.85)
+}
+
+/* Fondos */
+.fondo {
+    background-color: cornflowerblue;
+    background-image: url("https://websitebackgroundmaker.com/");
+    background-position: left bottom;
+}
+
+.fondo-interno {
+    background-color: cornflowerblue;
+    background-image: url("https://d33wubrfki0l68.cloudfront.net/b4759e96fa9ada8ee8caa4c771fcd503f289d791/6de77/static/triangle_background-9df4fa2e10f0e294779511e99083c2bc.jpg");
+    background-position: left bottom;
+}
